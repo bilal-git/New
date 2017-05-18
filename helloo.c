@@ -2,6 +2,6 @@
 void main()
 {
 	printf("Hello World!");
-	printf("Hey there!");
+	//printf("Hey there!");
 	printf("Two repositories\n");
 }
